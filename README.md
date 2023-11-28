@@ -17,13 +17,13 @@ I am a passionate and aspiring Data Scientist with a strong background in mathem
 
 ## 📚 Education
 
-- University of the Western Cape, Mathematical and Statistical Science, Septemeber 2023
+- University of the Western Cape, Mathematical and Statistical Science, September 2023
 
 ## 🚀 Projects
 
-- [Project 1: Brief description and link]
-- [Project 2: Brief description and link]
-- [Add more projects]
+- CREDIT CARD FRAUD DETECTION
+- LOAN STATUS PREDICTION 
+- E-COMMERCE SHOP PERFORMANCE 
 
 ## 🌱 Learning
 
@@ -34,19 +34,16 @@ I am constantly learning and expanding my skill set. Currently exploring:
 
 ## 📫 Contact
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-handle)
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/dhimbulukweni-vaino-alweendo-52777b154/
+- Email: alweendo16@gmail.com
 
 ## 🌐 Portfolio
 
-Explore my portfolio and check out more of my work: [Your Portfolio Link](https://your-portfolio.com)
+Explore my portfolio by clicking on the pinned repositories below.
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with fellow data enthusiasts, professionals, and anyone passionate about turning data into insights. Feel free to reach out for collaborations, discussions, or just to say hi!
+I'm always open to connecting with fellow data enthusiasts, professionals, and anyone passionate about turning data into insights. Feel free to reach out for collaborations and discussions.
 
-## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)](https://github.com/your-username)
 
